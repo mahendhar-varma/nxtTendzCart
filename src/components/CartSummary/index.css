@@ -1,0 +1,32 @@
+.cart-summary-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  margin-bottom: 45px;
+}
+
+.summary-text-container {
+  box-shadow: 4px 0px 16px #616e7c;
+  border-radius: 12px;
+  background-color: #ffffff;
+  padding: 20px;
+}
+
+.head {
+  font-size: 18px;
+  color: #616e7c;
+  font-weight: 500;
+}
+
+.text {
+  color: #616e7c;
+  font-weight: 500;
+  font-size: 14px;
+}
+
+span {
+  color: #000000;
+  font-size: 30px;
+  line-height: 1.42;
+}
